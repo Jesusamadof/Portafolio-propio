@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Laptop\\Desktop\\proyecto\\portafolio-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|c:\\users\\laptop\\desktop\\proyecto\\portafolio-main\\portafolioj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|solutionrelative:portafolioj\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|c:\\users\\laptop\\desktop\\proyecto\\portafolio-main\\portafolioj\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|solutionrelative:portafolioj\\views\\home\\contacto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|c:\\users\\laptop\\desktop\\proyecto\\portafolio-main\\portafolioj\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|solutionrelative:portafolioj\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|c:\\users\\laptop\\desktop\\proyecto\\portafolio-main\\portafolioj\\models\\contactoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|solutionrelative:portafolioj\\models\\contactoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|c:\\users\\laptop\\desktop\\proyecto\\portafolio-main\\portafolioj\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|solutionrelative:portafolioj\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|c:\\users\\laptop\\desktop\\proyecto\\portafolio-main\\portafolioj\\portafolioj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|solutionrelative:portafolioj\\portafolioj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|c:\\users\\laptop\\desktop\\proyecto\\portafolio-main\\portafolioj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7A037D43-52D7-4A94-9FFD-3FC0F165EA3D}|PortafolioJ\\PortafolioJ.csproj|solutionrelative:portafolioj\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contacto.cshtml",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\proyecto\\portafolio-main\\PortafolioJ\\Views\\Home\\Contacto.cshtml",
+              "RelativeDocumentMoniker": "PortafolioJ\\Views\\Home\\Contacto.cshtml",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\proyecto\\portafolio-main\\PortafolioJ\\Views\\Home\\Contacto.cshtml",
+              "RelativeToolTip": "PortafolioJ\\Views\\Home\\Contacto.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-18T03:05:47.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\proyecto\\portafolio-main\\PortafolioJ\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PortafolioJ\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\proyecto\\portafolio-main\\PortafolioJ\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PortafolioJ\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T02:40:59.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\proyecto\\portafolio-main\\PortafolioJ\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PortafolioJ\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\proyecto\\portafolio-main\\PortafolioJ\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PortafolioJ\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T02:56:23.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\proyecto\\portafolio-main\\PortafolioJ\\Models\\ContactoViewModel.cs",
+              "RelativeDocumentMoniker": "PortafolioJ\\Models\\ContactoViewModel.cs",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\proyecto\\portafolio-main\\PortafolioJ\\Models\\ContactoViewModel.cs",
+              "RelativeToolTip": "PortafolioJ\\Models\\ContactoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T03:12:01.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PortafolioJ",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\proyecto\\portafolio-main\\PortafolioJ\\PortafolioJ.csproj",
+              "RelativeDocumentMoniker": "PortafolioJ\\PortafolioJ.csproj",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\proyecto\\portafolio-main\\PortafolioJ\\PortafolioJ.csproj",
+              "RelativeToolTip": "PortafolioJ\\PortafolioJ.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-18T02:51:53.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\proyecto\\portafolio-main\\PortafolioJ\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PortafolioJ\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\proyecto\\portafolio-main\\PortafolioJ\\appsettings.Development.json",
+              "RelativeToolTip": "PortafolioJ\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T02:40:45.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Laptop\\Desktop\\proyecto\\portafolio-main\\PortafolioJ\\appsettings.json",
+              "RelativeDocumentMoniker": "PortafolioJ\\appsettings.json",
+              "ToolTip": "C:\\Users\\Laptop\\Desktop\\proyecto\\portafolio-main\\PortafolioJ\\appsettings.json",
+              "RelativeToolTip": "PortafolioJ\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T02:40:42.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
